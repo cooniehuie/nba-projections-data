@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "games": {
-    "2026-11-13|WAS @ NYG": {
+    "2026-11-12|WAS @ NYG": {
       "matchup": "WAS @ NYG",
       "title": "WAS at NYG — player props",
       "rows": [
@@ -230,7 +230,7 @@
           "Reference line": 3.5
         }
       ],
-      "date": "2026-11-13",
+      "date": "2026-11-12",
       "sha256": "79c23cc9aba95504d5ddb00197a977ea2282acdf9052ddd4be01ca43bd73f02e",
       "uploaded_at": "2026-11-13T00:17:37.140108+00:00",
       "source": "Sam NFL HTML"
