@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "games": {
+    "2026-11-13|WAS @ NYG": {
+      "matchup": "WAS @ NYG",
+      "title": "WAS at NYG — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "J.J. McCarthy",
+          "Team": "NYG",
+          "Sam projection": 196.9,
+          "Reference line": 210.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Jayden Daniels",
+          "Team": "WAS",
+          "Sam projection": 186.3,
+          "Reference line": 202.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jayden Daniels",
+          "Team": "WAS",
+          "Sam projection": 41.5,
+          "Reference line": 35.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Austin Ekeler",
+          "Team": "WAS",
+          "Sam projection": 24.3,
+          "Reference line": 30.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Cam Skattebo",
+          "Team": "NYG",
+          "Sam projection": 58.6,
+          "Reference line": 54.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Rachaad White",
+          "Team": "WAS",
+          "Sam projection": 34.2,
+          "Reference line": 39.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "J.J. McCarthy",
+          "Team": "NYG",
+          "Sam projection": 12.5,
+          "Reference line": 15.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Devin Singletary",
+          "Team": "NYG",
+          "Sam projection": 20.7,
+          "Reference line": 24.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Malik Nabers",
+          "Team": "NYG",
+          "Sam projection": 72.8,
+          "Reference line": 64.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Isaiah Likely",
+          "Team": "NYG",
+          "Sam projection": 47.1,
+          "Reference line": 48.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Darnell Mooney",
+          "Team": "NYG",
+          "Sam projection": 19.1,
+          "Reference line": 13.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Treylon Burks",
+          "Team": "WAS",
+          "Sam projection": 23.9,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Stefon Diggs",
+          "Team": "WAS",
+          "Sam projection": 36.2,
+          "Reference line": 39.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Antonio Williams",
+          "Team": "WAS",
+          "Sam projection": 33.1,
+          "Reference line": 39.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Devin Singletary",
+          "Team": "NYG",
+          "Sam projection": 8.9,
+          "Reference line": 9.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Chig Okonkwo",
+          "Team": "WAS",
+          "Sam projection": 31.2,
+          "Reference line": 35.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Malachi Fields",
+          "Team": "NYG",
+          "Sam projection": 29.9,
+          "Reference line": 25.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Cam Skattebo",
+          "Team": "NYG",
+          "Sam projection": 12.2,
+          "Reference line": 6.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Rachaad White",
+          "Team": "WAS",
+          "Sam projection": 13.0,
+          "Reference line": 12.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Austin Ekeler",
+          "Team": "WAS",
+          "Sam projection": 10.6,
+          "Reference line": 9.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Treylon Burks",
+          "Team": "WAS",
+          "Sam projection": 2.1,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Stefon Diggs",
+          "Team": "WAS",
+          "Sam projection": 4.1,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Malik Nabers",
+          "Team": "NYG",
+          "Sam projection": 6.6,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Darnell Mooney",
+          "Team": "NYG",
+          "Sam projection": 2.3,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Isaiah Likely",
+          "Team": "NYG",
+          "Sam projection": 5.2,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Cam Skattebo",
+          "Team": "NYG",
+          "Sam projection": 2.2,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Rachaad White",
+          "Team": "WAS",
+          "Sam projection": 2.0,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Malachi Fields",
+          "Team": "NYG",
+          "Sam projection": 2.9,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Antonio Williams",
+          "Team": "WAS",
+          "Sam projection": 3.4,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Austin Ekeler",
+          "Team": "WAS",
+          "Sam projection": 1.6,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Devin Singletary",
+          "Team": "NYG",
+          "Sam projection": 1.5,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Chig Okonkwo",
+          "Team": "WAS",
+          "Sam projection": 3.5,
+          "Reference line": 3.5
+        }
+      ],
+      "date": "2026-11-13",
+      "sha256": "79c23cc9aba95504d5ddb00197a977ea2282acdf9052ddd4be01ca43bd73f02e",
+      "uploaded_at": "2026-11-13T00:17:37.140108+00:00",
+      "source": "Sam NFL HTML"
+    }
+  }
+}
