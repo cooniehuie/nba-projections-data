@@ -1710,6 +1710,205 @@
       "sha256": "4da0474fe7b7440d6acd222be888452defade454c32c5721ced5725146fb589a",
       "uploaded_at": "2026-11-15T02:45:06.569Z",
       "source": "Sam NFL HTML"
+    },
+    "2026-11-15|PIT @ CIN": {
+      "matchup": "PIT @ CIN",
+      "title": "PIT at CIN — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Joe Burrow",
+          "Team": "CIN",
+          "Sam projection": 283.7,
+          "Reference line": 290.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Aaron Rodgers",
+          "Team": "PIT",
+          "Sam projection": 233.7,
+          "Reference line": 240.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Chase Brown",
+          "Team": "CIN",
+          "Sam projection": 42.3,
+          "Reference line": 46.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jaylen Warren",
+          "Team": "PIT",
+          "Sam projection": 71.1,
+          "Reference line": 62.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Rico Dowdle",
+          "Team": "PIT",
+          "Sam projection": 37,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Samaje Perine",
+          "Team": "CIN",
+          "Sam projection": 21.2,
+          "Reference line": 20.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Joe Burrow",
+          "Team": "CIN",
+          "Sam projection": 5.4,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Chase Brown",
+          "Team": "CIN",
+          "Sam projection": 28.8,
+          "Reference line": 23.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Ja'Marr Chase",
+          "Team": "CIN",
+          "Sam projection": 84.8,
+          "Reference line": 92.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Mike Gesicki",
+          "Team": "CIN",
+          "Sam projection": 25.3,
+          "Reference line": 22.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "DK Metcalf",
+          "Team": "PIT",
+          "Sam projection": 47.2,
+          "Reference line": 52.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Germie Bernard",
+          "Team": "PIT",
+          "Sam projection": 43.1,
+          "Reference line": 49.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Tee Higgins",
+          "Team": "CIN",
+          "Sam projection": 77.5,
+          "Reference line": 75.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Rico Dowdle",
+          "Team": "PIT",
+          "Sam projection": 16.8,
+          "Reference line": 13.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Dohnte Meyers",
+          "Team": "CIN",
+          "Sam projection": 23.5,
+          "Reference line": 19.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jaylen Warren",
+          "Team": "PIT",
+          "Sam projection": 27.5,
+          "Reference line": 25.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Pat Freiermuth",
+          "Team": "PIT",
+          "Sam projection": 25,
+          "Reference line": 27.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jaylen Warren",
+          "Team": "PIT",
+          "Sam projection": 2.8,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Pat Freiermuth",
+          "Team": "PIT",
+          "Sam projection": 2.9,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Tee Higgins",
+          "Team": "CIN",
+          "Sam projection": 5.8,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Chase Brown",
+          "Team": "CIN",
+          "Sam projection": 4.7,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Ja'Marr Chase",
+          "Team": "CIN",
+          "Sam projection": 7.3,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Rico Dowdle",
+          "Team": "PIT",
+          "Sam projection": 2.3,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "DK Metcalf",
+          "Team": "PIT",
+          "Sam projection": 4.4,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Germie Bernard",
+          "Team": "PIT",
+          "Sam projection": 4.6,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Mike Gesicki",
+          "Team": "CIN",
+          "Sam projection": 2.5,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Dohnte Meyers",
+          "Team": "CIN",
+          "Sam projection": 2.5,
+          "Reference line": 2.5
+        }
+      ],
+      "sha256": "aff4128bd11917a7012f7e5f1b7cf84ed196c3da686ce91f4d096f7088a7de2b",
+      "date": "2026-11-15",
+      "source": "Sam NFL HTML",
+      "uploaded_at": "2026-11-15T21:30:42+00:00"
     }
   }
 }
