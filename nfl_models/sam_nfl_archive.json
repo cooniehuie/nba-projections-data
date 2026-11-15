@@ -135,7 +135,7 @@
           "Market": "Receiving yards",
           "Player": "Rachaad White",
           "Team": "WAS",
-          "Sam projection": 13.0,
+          "Sam projection": 13,
           "Reference line": 12.5
         },
         {
@@ -191,7 +191,7 @@
           "Market": "Receptions",
           "Player": "Rachaad White",
           "Team": "WAS",
-          "Sam projection": 2.0,
+          "Sam projection": 2,
           "Reference line": 2.5
         },
         {
@@ -233,6 +233,1482 @@
       "date": "2026-11-12",
       "sha256": "79c23cc9aba95504d5ddb00197a977ea2282acdf9052ddd4be01ca43bd73f02e",
       "uploaded_at": "2026-11-13T00:17:37.140108+00:00",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|BUF @ NYJ": {
+      "matchup": "BUF @ NYJ",
+      "title": "BUF at NYJ — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Geno Smith",
+          "Team": "NYJ",
+          "Sam projection": 232,
+          "Reference line": 215.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Josh Allen",
+          "Team": "BUF",
+          "Sam projection": 238.2,
+          "Reference line": 231.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Breece Hall",
+          "Team": "NYJ",
+          "Sam projection": 54.1,
+          "Reference line": 55.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "James Cook",
+          "Team": "BUF",
+          "Sam projection": 96.3,
+          "Reference line": 91.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Braelon Allen",
+          "Team": "NYJ",
+          "Sam projection": 41.4,
+          "Reference line": 33.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Josh Allen",
+          "Team": "BUF",
+          "Sam projection": 32.1,
+          "Reference line": 27.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Geno Smith",
+          "Team": "NYJ",
+          "Sam projection": 3.1,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Khalil Shakir",
+          "Team": "BUF",
+          "Sam projection": 40.7,
+          "Reference line": 45.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Breece Hall",
+          "Team": "NYJ",
+          "Sam projection": 20.8,
+          "Reference line": 15.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Adonai Mitchell",
+          "Team": "NYJ",
+          "Sam projection": 39.9,
+          "Reference line": 34.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Omar Cooper Jr.",
+          "Team": "NYJ",
+          "Sam projection": 39.4,
+          "Reference line": 31.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Keon Coleman",
+          "Team": "BUF",
+          "Sam projection": 32,
+          "Reference line": 27.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "DJ Moore",
+          "Team": "BUF",
+          "Sam projection": 40.5,
+          "Reference line": 45.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Mason Taylor",
+          "Team": "NYJ",
+          "Sam projection": 20.6,
+          "Reference line": 15.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Dalton Kincaid",
+          "Team": "BUF",
+          "Sam projection": 37.2,
+          "Reference line": 41.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Garrett Wilson",
+          "Team": "NYJ",
+          "Sam projection": 60.3,
+          "Reference line": 61.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "James Cook",
+          "Team": "BUF",
+          "Sam projection": 10,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Malik Taylor",
+          "Team": "NYJ",
+          "Sam projection": 20.6,
+          "Reference line": 15.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Mason Taylor",
+          "Team": "NYJ",
+          "Sam projection": 2.6,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Omar Cooper Jr.",
+          "Team": "NYJ",
+          "Sam projection": 3.7,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Adonai Mitchell",
+          "Team": "NYJ",
+          "Sam projection": 3.5,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Malik Taylor",
+          "Team": "NYJ",
+          "Sam projection": 3.2,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Keon Coleman",
+          "Team": "BUF",
+          "Sam projection": 3,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "DJ Moore",
+          "Team": "BUF",
+          "Sam projection": 3.1,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Dalton Kincaid",
+          "Team": "BUF",
+          "Sam projection": 3.1,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Khalil Shakir",
+          "Team": "BUF",
+          "Sam projection": 3.8,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "James Cook",
+          "Team": "BUF",
+          "Sam projection": 1.4,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Breece Hall",
+          "Team": "NYJ",
+          "Sam projection": 2.6,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Garrett Wilson",
+          "Team": "NYJ",
+          "Sam projection": 5.5,
+          "Reference line": 5.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "1e2141c32a62aa416a30bf2a5caee723e8cf4f482e83ba380d9f4842a8af39d0",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|CAR @ NO": {
+      "matchup": "CAR @ NO",
+      "title": "CAR at NO — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Tyler Shough",
+          "Team": "NO",
+          "Sam projection": 235.9,
+          "Reference line": 255.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Bryce Young",
+          "Team": "CAR",
+          "Sam projection": 260.7,
+          "Reference line": 244.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Bryce Young",
+          "Team": "CAR",
+          "Sam projection": 6.7,
+          "Reference line": 10.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Chuba Hubbard",
+          "Team": "CAR",
+          "Sam projection": 75,
+          "Reference line": 80.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Tyler Shough",
+          "Team": "NO",
+          "Sam projection": 18.4,
+          "Reference line": 16.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Juwan Johnson",
+          "Team": "NO",
+          "Sam projection": 26.3,
+          "Reference line": 21.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Tetairoa McMillan",
+          "Team": "CAR",
+          "Sam projection": 69.7,
+          "Reference line": 64.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jalen Coker",
+          "Team": "CAR",
+          "Sam projection": 42.5,
+          "Reference line": 48.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Chris Olave",
+          "Team": "NO",
+          "Sam projection": 77.2,
+          "Reference line": 73.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Devaughn Vele",
+          "Team": "NO",
+          "Sam projection": 33.8,
+          "Reference line": 27.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Chuba Hubbard",
+          "Team": "CAR",
+          "Sam projection": 19.9,
+          "Reference line": 17.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Darren Waller",
+          "Team": "CAR",
+          "Sam projection": 31.6,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Chris Olave",
+          "Team": "NO",
+          "Sam projection": 6.5,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Juwan Johnson",
+          "Team": "NO",
+          "Sam projection": 3.5,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jalen Coker",
+          "Team": "CAR",
+          "Sam projection": 3.8,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Devaughn Vele",
+          "Team": "NO",
+          "Sam projection": 3.9,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Darren Waller",
+          "Team": "CAR",
+          "Sam projection": 2.9,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Chuba Hubbard",
+          "Team": "CAR",
+          "Sam projection": 2.8,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Tetairoa McMillan",
+          "Team": "CAR",
+          "Sam projection": 5.7,
+          "Reference line": 5.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "dc4f335c6856ba6d804bb3bc27ca3c7a49f871b5c7fe70c941cdb7f7767c03d8",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|HOU @ CLE": {
+      "matchup": "HOU @ CLE",
+      "title": "HOU at CLE — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Deshaun Watson",
+          "Team": "CLE",
+          "Sam projection": 227.1,
+          "Reference line": 205.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "C.J. Stroud",
+          "Team": "HOU",
+          "Sam projection": 258.5,
+          "Reference line": 244.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Quinshon Judkins",
+          "Team": "CLE",
+          "Sam projection": 48.5,
+          "Reference line": 40.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Deshaun Watson",
+          "Team": "CLE",
+          "Sam projection": 24.2,
+          "Reference line": 28.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Woody Marks",
+          "Team": "HOU",
+          "Sam projection": 57,
+          "Reference line": 64.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Dylan Sampson",
+          "Team": "CLE",
+          "Sam projection": 15.4,
+          "Reference line": 19.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "C.J. Stroud",
+          "Team": "HOU",
+          "Sam projection": 11,
+          "Reference line": 8.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Nico Collins",
+          "Team": "HOU",
+          "Sam projection": 53.6,
+          "Reference line": 58.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Dalton Schultz",
+          "Team": "HOU",
+          "Sam projection": 34.7,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "KC Concepcion",
+          "Team": "CLE",
+          "Sam projection": 45,
+          "Reference line": 49.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Woody Marks",
+          "Team": "HOU",
+          "Sam projection": 10.8,
+          "Reference line": 10.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Denzel Boston",
+          "Team": "CLE",
+          "Sam projection": 52.9,
+          "Reference line": 47.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Xavier Hutchinson",
+          "Team": "HOU",
+          "Sam projection": 27.1,
+          "Reference line": 28.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jerry Jeudy",
+          "Team": "CLE",
+          "Sam projection": 20.1,
+          "Reference line": 14.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Quinshon Judkins",
+          "Team": "CLE",
+          "Sam projection": 10.4,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Dylan Sampson",
+          "Team": "CLE",
+          "Sam projection": 25.7,
+          "Reference line": 21.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Harold Fannin Jr.",
+          "Team": "CLE",
+          "Sam projection": 43.2,
+          "Reference line": 38.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Marvin Harrison Jr.",
+          "Team": "HOU",
+          "Sam projection": 23.7,
+          "Reference line": 19.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Harold Fannin Jr.",
+          "Team": "CLE",
+          "Sam projection": 4.3,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jerry Jeudy",
+          "Team": "CLE",
+          "Sam projection": 2.6,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Marvin Harrison Jr.",
+          "Team": "HOU",
+          "Sam projection": 2.5,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Quinshon Judkins",
+          "Team": "CLE",
+          "Sam projection": 2.3,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Denzel Boston",
+          "Team": "CLE",
+          "Sam projection": 4.2,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Dylan Sampson",
+          "Team": "CLE",
+          "Sam projection": 2.9,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "KC Concepcion",
+          "Team": "CLE",
+          "Sam projection": 4,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Dalton Schultz",
+          "Team": "HOU",
+          "Sam projection": 3.8,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Xavier Hutchinson",
+          "Team": "HOU",
+          "Sam projection": 2.7,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Woody Marks",
+          "Team": "HOU",
+          "Sam projection": 1.7,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Nico Collins",
+          "Team": "HOU",
+          "Sam projection": 4.6,
+          "Reference line": 4.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "bef85da3c563f91ad52f84438d7882a9fc45ecc660856d63e9e48a94e2ee74e1",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|JAX @ TEN": {
+      "matchup": "JAX @ TEN",
+      "title": "JAX at TEN — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Trevor Lawrence",
+          "Team": "JAX",
+          "Sam projection": 256.6,
+          "Reference line": 238.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Cam Ward",
+          "Team": "TEN",
+          "Sam projection": 188.3,
+          "Reference line": 202.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Bhayshul Tuten",
+          "Team": "JAX",
+          "Sam projection": 57.6,
+          "Reference line": 67.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Trevor Lawrence",
+          "Team": "JAX",
+          "Sam projection": 11.2,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Tony Pollard",
+          "Team": "TEN",
+          "Sam projection": 61.4,
+          "Reference line": 56.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Cam Ward",
+          "Team": "TEN",
+          "Sam projection": 10.4,
+          "Reference line": 11.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Parker Washington",
+          "Team": "JAX",
+          "Sam projection": 57.9,
+          "Reference line": 63.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jakobi Meyers",
+          "Team": "JAX",
+          "Sam projection": 44,
+          "Reference line": 39.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Brenton Strange",
+          "Team": "JAX",
+          "Sam projection": 39.8,
+          "Reference line": 34.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Bhayshul Tuten",
+          "Team": "JAX",
+          "Sam projection": 12,
+          "Reference line": 10.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Tony Pollard",
+          "Team": "TEN",
+          "Sam projection": 10.5,
+          "Reference line": 10.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Parker Washington",
+          "Team": "JAX",
+          "Sam projection": 4,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jakobi Meyers",
+          "Team": "JAX",
+          "Sam projection": 4,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Brenton Strange",
+          "Team": "JAX",
+          "Sam projection": 4,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Elic Ayomanor",
+          "Team": "TEN",
+          "Sam projection": 2.4,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Bhayshul Tuten",
+          "Team": "JAX",
+          "Sam projection": 1.4,
+          "Reference line": 1.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "3acf853c369b81503aab84a702213be6c1d30ce4bc5d7d34271d8afdd7a79f72",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|KC @ ATL": {
+      "matchup": "KC @ ATL",
+      "title": "KC at ATL — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Patrick Mahomes",
+          "Team": "KC",
+          "Sam projection": 258.7,
+          "Reference line": 235.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Michael Penix Jr.",
+          "Team": "ATL",
+          "Sam projection": 206.9,
+          "Reference line": 219.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Bijan Robinson",
+          "Team": "ATL",
+          "Sam projection": 82.3,
+          "Reference line": 89.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Patrick Mahomes",
+          "Team": "KC",
+          "Sam projection": 13.8,
+          "Reference line": 8.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Kenneth Walker III",
+          "Team": "KC",
+          "Sam projection": 93.6,
+          "Reference line": 89.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Khalil Herbert",
+          "Team": "ATL",
+          "Sam projection": 10.7,
+          "Reference line": 8.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Emmett Johnson",
+          "Team": "KC",
+          "Sam projection": 10.9,
+          "Reference line": 9.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Michael Penix Jr.",
+          "Team": "ATL",
+          "Sam projection": 7.8,
+          "Reference line": 6.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Xavier Worthy",
+          "Team": "KC",
+          "Sam projection": 31,
+          "Reference line": 26.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Travis Kelce",
+          "Team": "KC",
+          "Sam projection": 51,
+          "Reference line": 46.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Drake London",
+          "Team": "ATL",
+          "Sam projection": 71.3,
+          "Reference line": 74.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Emmett Johnson",
+          "Team": "KC",
+          "Sam projection": 15.8,
+          "Reference line": 11.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Kenneth Walker III",
+          "Team": "KC",
+          "Sam projection": 16.8,
+          "Reference line": 20.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Rashee Rice",
+          "Team": "KC",
+          "Sam projection": 58.7,
+          "Reference line": 54.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jahan Dotson",
+          "Team": "ATL",
+          "Sam projection": 26.1,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Kyle Pitts",
+          "Team": "ATL",
+          "Sam projection": 32.1,
+          "Reference line": 37.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Bijan Robinson",
+          "Team": "ATL",
+          "Sam projection": 26.3,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Olamide Zaccheaus",
+          "Team": "ATL",
+          "Sam projection": 11.3,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Bijan Robinson",
+          "Team": "ATL",
+          "Sam projection": 3.6,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jahan Dotson",
+          "Team": "ATL",
+          "Sam projection": 2,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Rashee Rice",
+          "Team": "KC",
+          "Sam projection": 5.8,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Kenneth Walker III",
+          "Team": "KC",
+          "Sam projection": 2.6,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Xavier Worthy",
+          "Team": "KC",
+          "Sam projection": 3.6,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Olamide Zaccheaus",
+          "Team": "ATL",
+          "Sam projection": 1.7,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Travis Kelce",
+          "Team": "KC",
+          "Sam projection": 4.4,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Emmett Johnson",
+          "Team": "KC",
+          "Sam projection": 1.7,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Kyle Pitts",
+          "Team": "ATL",
+          "Sam projection": 3.6,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Drake London",
+          "Team": "ATL",
+          "Sam projection": 5.5,
+          "Reference line": 5.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "2f872db69d7da2785816dc02bedabc53ad74adb7a7ef7f1ba212aadb8c504f07",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|MIA @ IND": {
+      "matchup": "MIA @ IND",
+      "title": "MIA at IND — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Daniel Jones",
+          "Team": "IND",
+          "Sam projection": 201.2,
+          "Reference line": 182.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jonathan Taylor",
+          "Team": "IND",
+          "Sam projection": 69.8,
+          "Reference line": 64.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Ollie Gordon II",
+          "Team": "MIA",
+          "Sam projection": 67.9,
+          "Reference line": 74.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Daniel Jones",
+          "Team": "IND",
+          "Sam projection": 9.4,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Seth McGowan",
+          "Team": "IND",
+          "Sam projection": 25.3,
+          "Reference line": 24.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Caleb Douglas",
+          "Team": "MIA",
+          "Sam projection": 43.7,
+          "Reference line": 38.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Tyler Warren",
+          "Team": "IND",
+          "Sam projection": 40.3,
+          "Reference line": 47.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jonathan Taylor",
+          "Team": "IND",
+          "Sam projection": 20.9,
+          "Reference line": 23.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Laquon Treadwell",
+          "Team": "IND",
+          "Sam projection": 25.5,
+          "Reference line": 31.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Chris Bell",
+          "Team": "MIA",
+          "Sam projection": 16.2,
+          "Reference line": 17.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Greg Dulcich",
+          "Team": "MIA",
+          "Sam projection": 31.9,
+          "Reference line": 34.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jonathan Taylor",
+          "Team": "IND",
+          "Sam projection": 2.7,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Greg Dulcich",
+          "Team": "MIA",
+          "Sam projection": 3.1,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Laquon Treadwell",
+          "Team": "IND",
+          "Sam projection": 2.1,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Tyler Warren",
+          "Team": "IND",
+          "Sam projection": 5.2,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Chris Bell",
+          "Team": "MIA",
+          "Sam projection": 1.7,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Caleb Douglas",
+          "Team": "MIA",
+          "Sam projection": 3.5,
+          "Reference line": 3.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "752a9580a22d8c2a0ce67f5ac96cf4141465ca7a13373cdf0adecc3ddfd252b2",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|NE @ DET": {
+      "matchup": "NE @ DET",
+      "title": "NE at DET — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Drake Maye",
+          "Team": "NE",
+          "Sam projection": 277.5,
+          "Reference line": 257.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Jared Goff",
+          "Team": "DET",
+          "Sam projection": 276.7,
+          "Reference line": 265.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Corey Kiner",
+          "Team": "NE",
+          "Sam projection": 44.3,
+          "Reference line": 54.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Drake Maye",
+          "Team": "NE",
+          "Sam projection": 21.1,
+          "Reference line": 26.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jahmyr Gibbs",
+          "Team": "DET",
+          "Sam projection": 92.1,
+          "Reference line": 96.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Sione Vaki",
+          "Team": "DET",
+          "Sam projection": 11.3,
+          "Reference line": 13.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jared Goff",
+          "Team": "DET",
+          "Sam projection": 0,
+          "Reference line": 0.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Sam LaPorta",
+          "Team": "DET",
+          "Sam projection": 43.2,
+          "Reference line": 40.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Isaac TeSlaa",
+          "Team": "DET",
+          "Sam projection": 19.6,
+          "Reference line": 17.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Amon-Ra St. Brown",
+          "Team": "DET",
+          "Sam projection": 76.7,
+          "Reference line": 79.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jahmyr Gibbs",
+          "Team": "DET",
+          "Sam projection": 31.9,
+          "Reference line": 30.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jameson Williams",
+          "Team": "DET",
+          "Sam projection": 46.5,
+          "Reference line": 56.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Hunter Henry",
+          "Team": "NE",
+          "Sam projection": 37.4,
+          "Reference line": 35.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jahmyr Gibbs",
+          "Team": "DET",
+          "Sam projection": 3.9,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jameson Williams",
+          "Team": "DET",
+          "Sam projection": 2.5,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Sam LaPorta",
+          "Team": "DET",
+          "Sam projection": 4.2,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Hunter Henry",
+          "Team": "NE",
+          "Sam projection": 3.8,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Isaac TeSlaa",
+          "Team": "DET",
+          "Sam projection": 1.7,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Amon-Ra St. Brown",
+          "Team": "DET",
+          "Sam projection": 7.3,
+          "Reference line": 7.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "a2a6e639b669a22077772228cfc4e63a2a9dec3ece2ea2e2c740d80d0fc150c3",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|SEA @ LV": {
+      "matchup": "SEA @ LV",
+      "title": "SEA at LV — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Drew Lock",
+          "Team": "SEA",
+          "Sam projection": 175.3,
+          "Reference line": 206.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jadarian Price",
+          "Team": "SEA",
+          "Sam projection": 39.2,
+          "Reference line": 43.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Ashton Jeanty",
+          "Team": "LV",
+          "Sam projection": 32.2,
+          "Reference line": 34.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Drew Lock",
+          "Team": "SEA",
+          "Sam projection": 2.6,
+          "Reference line": 6.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Mike Washington Jr.",
+          "Team": "LV",
+          "Sam projection": 26.1,
+          "Reference line": 26.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jaxon Smith-Njigba",
+          "Team": "SEA",
+          "Sam projection": 95,
+          "Reference line": 88.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Brock Bowers",
+          "Team": "LV",
+          "Sam projection": 63.6,
+          "Reference line": 58.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Cooper Kupp",
+          "Team": "SEA",
+          "Sam projection": 25.6,
+          "Reference line": 19.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Tre Tucker",
+          "Team": "LV",
+          "Sam projection": 32.3,
+          "Reference line": 25.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jadarian Price",
+          "Team": "SEA",
+          "Sam projection": 14.8,
+          "Reference line": 9.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jalen Nailor",
+          "Team": "LV",
+          "Sam projection": 14.9,
+          "Reference line": 12.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "AJ Barner",
+          "Team": "SEA",
+          "Sam projection": 23.3,
+          "Reference line": 21.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Ashton Jeanty",
+          "Team": "LV",
+          "Sam projection": 29.6,
+          "Reference line": 25.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jaxon Smith-Njigba",
+          "Team": "SEA",
+          "Sam projection": 7.5,
+          "Reference line": 6.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Tre Tucker",
+          "Team": "LV",
+          "Sam projection": 3.5,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jalen Nailor",
+          "Team": "LV",
+          "Sam projection": 2.2,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jadarian Price",
+          "Team": "SEA",
+          "Sam projection": 2,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Brock Bowers",
+          "Team": "LV",
+          "Sam projection": 5.9,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Ashton Jeanty",
+          "Team": "LV",
+          "Sam projection": 4.1,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Cooper Kupp",
+          "Team": "SEA",
+          "Sam projection": 2.7,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "AJ Barner",
+          "Team": "SEA",
+          "Sam projection": 2.7,
+          "Reference line": 2.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "6be6745f3fb5e062fbad8b3e4730087a595b671b10ca18ecabef01fd36ad7ad1",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
+      "source": "Sam NFL HTML"
+    },
+    "2026-11-15|SF @ DAL": {
+      "matchup": "SF @ DAL",
+      "title": "SF at DAL — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Dak Prescott",
+          "Team": "DAL",
+          "Sam projection": 261.6,
+          "Reference line": 268.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Brock Purdy",
+          "Team": "SF",
+          "Sam projection": 248.3,
+          "Reference line": 256.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Christian McCaffrey",
+          "Team": "SF",
+          "Sam projection": 65.8,
+          "Reference line": 60.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Javonte Williams",
+          "Team": "DAL",
+          "Sam projection": 64.1,
+          "Reference line": 65.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Brock Purdy",
+          "Team": "SF",
+          "Sam projection": 22.5,
+          "Reference line": 18.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Kaelon Black",
+          "Team": "SF",
+          "Sam projection": 38.1,
+          "Reference line": 33.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Deebo Samuel",
+          "Team": "SF",
+          "Sam projection": 10.6,
+          "Reference line": 6.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Dak Prescott",
+          "Team": "DAL",
+          "Sam projection": 6.7,
+          "Reference line": 9.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Christian McCaffrey",
+          "Team": "SF",
+          "Sam projection": 35.8,
+          "Reference line": 31.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "CeeDee Lamb",
+          "Team": "DAL",
+          "Sam projection": 86.5,
+          "Reference line": 90.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Demarcus Robinson",
+          "Team": "SF",
+          "Sam projection": 22.9,
+          "Reference line": 28.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Javonte Williams",
+          "Team": "DAL",
+          "Sam projection": 12.4,
+          "Reference line": 13.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "George Kittle",
+          "Team": "SF",
+          "Sam projection": 57.7,
+          "Reference line": 62.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Deebo Samuel",
+          "Team": "SF",
+          "Sam projection": 32.8,
+          "Reference line": 37.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "George Kittle",
+          "Team": "SF",
+          "Sam projection": 4.8,
+          "Reference line": 5.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Demarcus Robinson",
+          "Team": "SF",
+          "Sam projection": 2.1,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "CeeDee Lamb",
+          "Team": "DAL",
+          "Sam projection": 7.8,
+          "Reference line": 7.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Javonte Williams",
+          "Team": "DAL",
+          "Sam projection": 2.3,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Christian McCaffrey",
+          "Team": "SF",
+          "Sam projection": 4.7,
+          "Reference line": 4.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Deebo Samuel",
+          "Team": "SF",
+          "Sam projection": 3.5,
+          "Reference line": 3.5
+        }
+      ],
+      "date": "2026-11-15",
+      "sha256": "4da0474fe7b7440d6acd222be888452defade454c32c5721ced5725146fb589a",
+      "uploaded_at": "2026-11-15T02:45:06.569Z",
       "source": "Sam NFL HTML"
     }
   }
