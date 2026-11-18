@@ -1488,117 +1488,117 @@
         "Game": "DAL@BOS",
         "Market": "Rebounds",
         "Safer line": "2+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 5,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Walker Kessler",
         "Game": "LAL@PHX",
         "Market": "Rebounds",
         "Safer line": "10+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 12,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Cooper Flagg",
         "Game": "DAL@BOS",
         "Market": "Rebounds",
         "Safer line": "5+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 3,
+        "Result": "Loss",
+        "Game status": "Final"
       },
       {
         "Player": "Alperen Sengun",
         "Game": "HOU@WAS",
         "Market": "Rebounds",
         "Safer line": "8+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 8,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Naji Marshall",
         "Game": "DAL@BOS",
         "Market": "Assists",
         "Safer line": "2+ assists",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 2,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Ace Bailey",
         "Game": "SAS@UTA",
         "Market": "Rebounds",
         "Safer line": "4+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 8,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Tyrese Maxey",
         "Game": "IND@PHI",
         "Market": "Assists",
         "Safer line": "4+ assists",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 6,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Jalen Johnson",
         "Game": "ATL@MIL",
         "Market": "Assists",
         "Safer line": "6+ assists",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 5,
+        "Result": "Loss",
+        "Game status": "Final"
       },
       {
         "Player": "Cooper Flagg",
         "Game": "DAL@BOS",
         "Market": "Assists",
         "Safer line": "4+ assists",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 4,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Aaron Wiggins",
         "Game": "ATL@MIL",
         "Market": "Rebounds",
         "Safer line": "3+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 3,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Pascal Siakam",
         "Game": "IND@PHI",
         "Market": "Rebounds",
         "Safer line": "5+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 2,
+        "Result": "Loss",
+        "Game status": "Final"
       },
       {
         "Player": "Kevin Durant",
         "Game": "HOU@WAS",
         "Market": "Rebounds",
         "Safer line": "4+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 4,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Kyshawn George",
         "Game": "HOU@WAS",
         "Market": "Points",
         "Safer line": "10+ points",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 11,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Kyrie Irving",
@@ -1606,65 +1606,65 @@
         "Market": "Points",
         "Safer line": "16+ points",
         "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Result": "DNP",
+        "Game status": "Final - absent from player box score"
       },
       {
         "Player": "Jaylen Brown",
         "Game": "IND@PHI",
         "Market": "Rebounds",
         "Safer line": "5+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 2,
+        "Result": "Loss",
+        "Game status": "Final"
       },
       {
         "Player": "Luka Doncic",
         "Game": "LAL@PHX",
         "Market": "Points",
         "Safer line": "32+ points",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 43,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Keyonte George",
         "Game": "SAS@UTA",
         "Market": "Assists",
         "Safer line": "4+ assists",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 8,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Onyeka Okongwu",
         "Game": "ATL@MIL",
         "Market": "Rebounds",
         "Safer line": "6+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 11,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Tari Eason",
         "Game": "HOU@WAS",
         "Market": "Rebounds",
         "Safer line": "5+ rebounds",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 7,
+        "Result": "Hit",
+        "Game status": "Final"
       },
       {
         "Player": "Dyson Daniels",
         "Game": "ATL@MIL",
         "Market": "Assists",
         "Safer line": "4+ assists",
-        "Actual": null,
-        "Result": "Unverified",
-        "Game status": "Unverified"
+        "Actual": 5,
+        "Result": "Hit",
+        "Game status": "Final"
       }
     ],
-    "source": "recovered original bankroll_picks_2026-11-15.json; outcomes not yet verified"
+    "source": "2026-11-15 final NBA box scores; Box Score Wiz daily leaders and game box scores; Kyrie absent from DAL-BOS box score"
   },
   "2026-11-16": {
     "picks": [
