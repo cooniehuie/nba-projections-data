@@ -2719,6 +2719,240 @@
       "sha256": "e847ded54f3d02580031174520ce5c45794cbd90303e4ad2c45cd0a626df6612",
       "source": "Sam NFL HTML",
       "uploaded_at": "2026-11-25T22:40:08.304Z"
+    },
+    "2026-11-27|DEN @ PIT": {
+      "matchup": "DEN @ PIT",
+      "title": "DEN at PIT — player props",
+      "rows": [
+        {
+          "Market": "Passing yards",
+          "Player": "Bo Nix",
+          "Team": "DEN",
+          "Sam projection": 210.6,
+          "Reference line": 200.5
+        },
+        {
+          "Market": "Passing yards",
+          "Player": "Mason Rudolph",
+          "Team": "PIT",
+          "Sam projection": 139.8,
+          "Reference line": 175.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jaylen Warren",
+          "Team": "PIT",
+          "Sam projection": 68.8,
+          "Reference line": 59.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Rico Dowdle",
+          "Team": "PIT",
+          "Sam projection": 36.5,
+          "Reference line": 29.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Jonah Coleman",
+          "Team": "DEN",
+          "Sam projection": 67.6,
+          "Reference line": 74.5
+        },
+        {
+          "Market": "Rushing yards",
+          "Player": "Bo Nix",
+          "Team": "DEN",
+          "Sam projection": 12.1,
+          "Reference line": 10.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jonah Coleman",
+          "Team": "DEN",
+          "Sam projection": 24.7,
+          "Reference line": 20.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Pat Bryant",
+          "Team": "DEN",
+          "Sam projection": 27,
+          "Reference line": 27.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jaylen Warren",
+          "Team": "PIT",
+          "Sam projection": 22.8,
+          "Reference line": 16.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "DK Metcalf",
+          "Team": "PIT",
+          "Sam projection": 34,
+          "Reference line": 27.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Roman Wilson",
+          "Team": "PIT",
+          "Sam projection": 18.1,
+          "Reference line": 12.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Pat Freiermuth",
+          "Team": "PIT",
+          "Sam projection": 24.1,
+          "Reference line": 20.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Evan Engram",
+          "Team": "DEN",
+          "Sam projection": 24.5,
+          "Reference line": 20.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Jaylen Waddle",
+          "Team": "DEN",
+          "Sam projection": 39.1,
+          "Reference line": 43.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Rico Dowdle",
+          "Team": "PIT",
+          "Sam projection": 13,
+          "Reference line": 8.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Troy Franklin",
+          "Team": "DEN",
+          "Sam projection": 8.9,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Michael Pittman Jr.",
+          "Team": "PIT",
+          "Sam projection": 18.5,
+          "Reference line": 10.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Courtland Sutton",
+          "Team": "DEN",
+          "Sam projection": 29.5,
+          "Reference line": 25.5
+        },
+        {
+          "Market": "Receiving yards",
+          "Player": "Germie Bernard",
+          "Team": "PIT",
+          "Sam projection": 28.3,
+          "Reference line": 22.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Germie Bernard",
+          "Team": "PIT",
+          "Sam projection": 3.7,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Michael Pittman Jr.",
+          "Team": "PIT",
+          "Sam projection": 2.7,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "DK Metcalf",
+          "Team": "PIT",
+          "Sam projection": 3.6,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Troy Franklin",
+          "Team": "DEN",
+          "Sam projection": 1.6,
+          "Reference line": 0.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Roman Wilson",
+          "Team": "PIT",
+          "Sam projection": 2.5,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Rico Dowdle",
+          "Team": "PIT",
+          "Sam projection": 2.5,
+          "Reference line": 1.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Courtland Sutton",
+          "Team": "DEN",
+          "Sam projection": 3.2,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jonah Coleman",
+          "Team": "DEN",
+          "Sam projection": 3,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Pat Freiermuth",
+          "Team": "PIT",
+          "Sam projection": 2.8,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jaylen Warren",
+          "Team": "PIT",
+          "Sam projection": 2.8,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Evan Engram",
+          "Team": "DEN",
+          "Sam projection": 2.8,
+          "Reference line": 2.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Jaylen Waddle",
+          "Team": "DEN",
+          "Sam projection": 3.6,
+          "Reference line": 3.5
+        },
+        {
+          "Market": "Receptions",
+          "Player": "Pat Bryant",
+          "Team": "DEN",
+          "Sam projection": 2.6,
+          "Reference line": 2.5
+        }
+      ],
+      "date": "2026-11-27",
+      "sha256": "74e42004612af5bc58d4749e184471ed089147d965679e3c551295a79a059f74",
+      "uploaded_at": "2026-11-27T18:36:23.204Z",
+      "source": "Sam NFL HTML"
     }
   }
 }
